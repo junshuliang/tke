@@ -51,6 +51,6 @@
   },
   "dependencies": {
     "@tencent/tea-component": "^0.3.75",
-    "@types/classnames": "^2.2.8"
+    "@types/classnames": "^2.3.0"
   }
 }
