@@ -34,7 +34,7 @@
   "dependencies": {
     "eventemitter3": "^4.0.0",
     "hash-string": "=1.0.0",
-    "history": "=4.7.2",
+    "history": "4.10.1",
     "i18next": "=13.1.5",
     "react-i18next": "=9.0.2",
     "warning": "^4.0.3"
