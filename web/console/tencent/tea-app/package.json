@@ -36,7 +36,7 @@
     "hash-string": "=1.0.0",
     "history": "=4.7.2",
     "i18next": "=13.1.5",
-    "react-i18next": "=9.0.2",
+    "react-i18next": "9.0.10",
     "warning": "^4.0.3"
   },
   "description": "Tea app register and expose api",
