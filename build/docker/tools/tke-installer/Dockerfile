@@ -14,7 +14,7 @@
 # WARRANTIES OF ANY KIND, either express or implied.  See the License for the
 # specific language governing permissions and limitations under the License.
 
-FROM docker:20.10.8-dind
+FROM docker:20.10.11-dind
 
 RUN echo "hosts: files dns" >> /etc/nsswitch.conf
 
