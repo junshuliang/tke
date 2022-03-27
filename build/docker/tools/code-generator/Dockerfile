@@ -14,7 +14,7 @@
 # WARRANTIES OF ANY KIND, either express or implied.  See the License for the
 # specific language governing permissions and limitations under the License.
 
-FROM golang:1.15-alpine
+FROM golang:1.16.12-alpine
 
 RUN apk add --update --no-cache autoconf automake libtool zlib-dev build-base curl git
 
