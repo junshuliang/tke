@@ -22,7 +22,7 @@
     "@babel/runtime": "^7.12.1",
     "@types/jquery": "^3.3.31",
     "@types/node": "^12.7.4",
-    "@vx/axis": "^0.0.183",
+    "@vx/axis": "^0.0.189",
     "@vx/bounds": "^0.0.182",
     "@vx/event": "^0.0.182",
     "@vx/shape": "^0.0.183",
