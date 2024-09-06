@@ -22,7 +22,7 @@
     "@babel/runtime": "^7.12.1",
     "@types/jquery": "^3.3.31",
     "@types/node": "^12.7.4",
-    "@vx/axis": "^0.0.183",
+    "@vx/axis": "^0.0.199",
     "@vx/bounds": "^0.0.182",
     "@vx/event": "^0.0.182",
     "@vx/shape": "^0.0.183",
@@ -43,14 +43,14 @@
     "progress-bar-webpack-plugin": "^1.12.1",
     "react": "16.8.4",
     "react-dom": "16.8.4",
-    "react-hot-loader": "^4.13.0",
+    "react-hot-loader": "^4.13.1",
     "react-iframe": "^1.5.0",
     "react-router": "^5.0.1",
     "redux-logger": "^3.0.6",
     "redux-thunk": "=2.0.1",
     "tslint": "^5.12.1",
     "typescript": "^4.0.3",
-    "webpack-bundle-analyzer": "^3.5.2"
+    "webpack-bundle-analyzer": "^4.9.1"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
