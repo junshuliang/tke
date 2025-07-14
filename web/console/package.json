@@ -34,7 +34,7 @@
     "classnames": "2.2.6",
     "clipboard": "^1.5.12",
     "compare-versions": "^3.6.0",
-    "d3": "^5.9.2",
+    "d3": "^7.0.0",
     "dayjs": "^1.7.7",
     "deep-equal": "^1.0.1",
     "deep-extend": "^0.6.0",
